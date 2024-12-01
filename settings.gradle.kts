@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "test-gRPC"
 include(":app")
- 
+include(":rpc")
